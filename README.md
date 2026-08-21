@@ -10,7 +10,7 @@
 
 ## About me
 
-- 🔭 I’m currently working as a **Senior IT Consultant — Frontend & Application Architecture** at Orbyta Tech.
+- 🔭 I’m currently working as a **Senior IT Consultant - Frontend & Application Architecture** at Orbyta Tech.
 - ⚡ I specialize in **Angular, TypeScript, Signals, RxJS, NgRx and Standalone Components**.
 - 🤝 I have experience as a **Senior Frontend Developer and Team Lead** in Agile environments.
 - 🧩 I work with scalable architectures, Micro-Frontends, real-time applications and REST APIs.
