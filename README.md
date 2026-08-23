@@ -27,13 +27,13 @@
 
 ## 👨‍💻 About me
 
-I'm a **Senior Frontend Engineer and Angular Specialist** focused on building maintainable, scalable web applications and improving the way frontend teams develop software.
+I'm a **Senior Frontend Engineer and Angular Specialist** focused on building maintainable, scalable web applications and improving frontend development workflows.
 
-My main expertise is around **Angular, TypeScript and modern frontend architecture**, with particular interest in Signals, standalone APIs, reactive state management, SSR and performance.
+My main expertise is **Angular, TypeScript and frontend architecture**, with a focus on Signals, standalone APIs, reactive state management, SSR and performance.
 
-I'm also exploring how AI can become a practical part of the software engineering workflow without replacing architectural thinking, code review or testing.
+I also use AI tools as part of my development workflow, while keeping architectural decisions, code review and testing under engineering control.
 
-- 🔭 **Current role:** Senior IT Consultant — Frontend & Application Architecture at Orbyta Tech
+- 🔭 **Current role:** Senior IT Consultant - Frontend & Application Architecture at Orbyta Tech
 - ⚡ **Core stack:** Angular · TypeScript · Signals · RxJS · NgRx
 - 🧩 **Architecture:** Micro-Frontends · REST APIs · real-time applications
 - 🤝 **Leadership:** Technical mentoring · Code Review · Team Leadership
@@ -45,13 +45,13 @@ I'm also exploring how AI can become a practical part of the software engineerin
 
 ## 🚀 What I'm building
 
-I use GitHub not only to store code, but also to experiment with new approaches to frontend development.
+I use GitHub to build projects, test new frontend approaches and share reusable solutions.
 
 ### 🅰️ Angular Boilerplate
 
-A reusable Angular starter and a living reference for modern Angular development.
+A reusable Angular starter that demonstrates modern Angular features in a real application.
 
-The project is continuously aligned with the latest Angular release and demonstrates features through a real application rather than isolated examples.
+The project stays aligned with current Angular releases and focuses on practical implementation rather than isolated examples.
 
 **Highlights**
 
@@ -84,7 +84,7 @@ The project is continuously aligned with the latest Angular release and demonstr
 
 An Angular library for coordinating UI locking while HTTP requests are running.
 
-It uses modern Angular primitives such as **Signals**, `HttpContext` and functional interceptors to make request-related UI state predictable and reusable.
+It uses **Signals**, `HttpContext` and functional interceptors to keep request-related UI state predictable and reusable.
 
 <p>
   <a href="https://github.com/SalvatoreDiGenua/ngx-request-lock-docs">
@@ -131,9 +131,9 @@ It uses modern Angular primitives such as **Signals**, `HttpContext` and functio
 
 ## 🤖 AI-assisted development
 
-AI is part of my development workflow, but not a replacement for engineering decisions.
+AI is part of my development workflow, but it does not replace engineering decisions.
 
-I use AI to accelerate:
+I use AI to speed up:
 
 - code generation
 - refactoring
@@ -148,9 +148,7 @@ My current toolkit includes:
 
 **Cursor · Antigravity · Claude Code · OpenCode · MCP Servers · Custom Skills**
 
-The goal is simple:
-
-> **Move faster without compromising architecture, readability, testing or maintainability.**
+I use these tools to reduce repetitive work while keeping architecture, readability, testing and maintainability as engineering responsibilities.
 
 ---
 
@@ -174,16 +172,16 @@ I'm particularly interested in:
 
 ## 🎓 Education
 
-- **Master in AI Engineering** — eCampus Digital School · 2025 — ongoing
-- **Bachelor's Degree in Computer and Automation Engineering** — eCampus Online University · 2022 — 2024
-- **IT Specialist Diploma** — IISS Rinaldo D'Aquino, Montella · 2014 — 2019
+- **Master in AI Engineering** - eCampus Digital School · 2025 - ongoing
+- **Bachelor's Degree in Computer and Automation Engineering** - eCampus Online University · 2022 - 2024
+- **IT Specialist Diploma** - IISS Rinaldo D'Aquino, Montella · 2014 - 2019
 
 ---
 
 ## 🌍 Languages
 
-- 🇮🇹 Italian — Native
-- 🇬🇧 English — B1, improving
+- 🇮🇹 Italian - Native
+- 🇬🇧 English - B1, improving
 
 ---
 
@@ -203,7 +201,7 @@ My portfolio brings together my professional experience, technical skills and pe
 
 Interested in Angular, frontend architecture, AI-assisted development or collaboration?
 
-Feel free to reach out.
+You can reach me by email or LinkedIn.
 
 <p>
   <a href="mailto:salvatoredigenua.developer@gmail.com">
