@@ -5,7 +5,7 @@
 ### Senior Frontend Engineer · Angular Specialist · AI-Assisted Development
 
 <p>
-  <a href="https://salvatoredigenua.netlify.app/">
+  <a href="https://salvatoredigenua.it/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-6366f1?style=for-the-badge&logo=angular&logoColor=white" alt="Visit portfolio" />
   </a>
   <a href="https://github.com/SalvatoreDiGenua">
@@ -192,7 +192,7 @@ I'm particularly interested in:
 My portfolio brings together my professional experience, technical skills and personal projects.
 
 <p>
-  <a href="https://salvatoredigenua.netlify.app/">
+  <a href="https://salvatoredigenua.it/">
     <img src="https://img.shields.io/badge/Explore%20my%20portfolio-6366f1?style=for-the-badge&logo=angular&logoColor=white" alt="Explore my portfolio" />
   </a>
 </p>
