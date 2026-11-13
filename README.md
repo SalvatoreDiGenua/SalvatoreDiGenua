@@ -37,7 +37,7 @@ I also use AI tools as part of my development workflow, while keeping architectu
 - ⚡ **Core stack:** Angular · TypeScript · Signals · RxJS · NgRx
 - 🧩 **Architecture:** Micro-Frontends · REST APIs · real-time applications
 - 🤝 **Leadership:** Technical mentoring · Code Review · Team Leadership
-- 🤖 **AI-assisted development:** Cursor · Antigravity · Claude Code · OpenCode · MCP
+- 🤖 **AI-assisted development:** Cursor · Antigravity · Claude Code · Codex · OpenCode · MCP
 - 🌱 **Currently studying:** Master in AI Engineering
 - 📍 **Based in:** Montella, Campania, Italy
 
